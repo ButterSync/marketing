@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "next/image";
 
 export default function FounderNoteSection() {
   return (
@@ -16,31 +16,34 @@ export default function FounderNoteSection() {
         <figure className="mt-10">
           <blockquote className="text-center text-lg leading-8 text-gray-900 sm:text-lg sm:leading-9">
             <p className="mb-4">
-              Hey, you have been reading a lot. Let&apos;s pause to know each other better. You must
-              be thinking: Who am I and why do I care about home service companies?
+              Hey, you have been reading a lot. Let&apos;s pause to know each
+              other better. You must be thinking: Who am I and why do I care
+              about home service companies?
             </p>
             <p className="mb-4">
-              I have been a part of the services industry for the past 2 years. I have built
-              software solutions for small home service providers to enterprise companies from
-              scratch.
+              I have been a part of the services industry for the past 2 years.
+              I have built software solutions for small home service providers
+              to enterprise companies from scratch.
             </p>
             <p className="mb-4">
-              I have come to found out that building a software solution is part of the job. Getting
-              it to work for the business with the existing solutions is the most difficult part.
+              I have come to found out that building a software solution is part
+              of the job. Getting it to work for the business with the existing
+              solutions is the most difficult part.
             </p>
             <p className="mb-4">
-              My main focus was just that. Building workflows for home service business users to
-              help them to do their job in the most effective way.
+              My main focus was just that. Building workflows for home service
+              business users to help them to do their job in the most effective
+              way.
             </p>
             <p className="mb-4">
-              Then it hit me, if I can help enterprise companies build workflows for smooth
-              operations. There are lot of home service companies drowning in the sea of software,
-              waiting for a life guard.
+              Then it hit me, if I can help enterprise companies build workflows
+              for smooth operations. There are lot of home service companies
+              drowning in the sea of software, waiting for a life guard.
             </p>
             <p className="mb-4">
-              That&apos;s what seeded the idea of ButterSync, a workflow automation agency built
-              only for the home service business companies. If you work in home service industry,
-              let&apos;s talk.
+              That&apos;s what seeded the idea of ButterSync, a workflow
+              automation agency built only for the home service business
+              companies. If you work in home service industry, let&apos;s talk.
             </p>
           </blockquote>
           <figcaption className="mt-10">

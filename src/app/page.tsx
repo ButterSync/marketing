@@ -2,11 +2,11 @@ import Image from "next/image";
 import HeroSection from "@/components/HeroSection";
 import ProblemSection from "@/components/ProblemSection";
 import SolutionSection from "@/components/SolutionSection";
-import FounderNoteSection from "@/components/FounderNoteSection";
 import PricingSection from "@/components/PricingSection";
 import FaqSection from "@/components/FaqSection";
 import FooterSection from "@/components/FooterSection";
 import CtaSection from "@/components/CtaSection";
+import FounderVideoSection from "@/components/FounderVideoSection";
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
       <HeroSection />
       <ProblemSection />
       <SolutionSection />
-      <FounderNoteSection />
+      <FounderVideoSection />
       <PricingSection />
       <FaqSection />
       <CtaSection />
