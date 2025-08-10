@@ -20,7 +20,7 @@ export default function FooterSection() {
             <br />
             30 N Gould St Ste R, Sheridan, WY 82801
             <br />
-            +1 (307) 226-1422
+            +1 (307) 400-8801
           </p>
 
           <ul className="mt-8 flex justify-center items-center gap-6">
